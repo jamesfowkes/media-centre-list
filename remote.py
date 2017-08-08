@@ -1,4 +1,3 @@
-import docopt
 import sys
 
 import paramiko
