@@ -73,6 +73,6 @@
 </div>
 
 <div class="well">
-Created on {% now 'local', "%B %d, %Y %I:%M:%S" %}
+Created on {% now 'local', "%B %d, %Y %H:%M:%S" %}
 </div>
 </html>
